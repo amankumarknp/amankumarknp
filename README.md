@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning Full Stack Development
 - 🥅 2024 Goals: Contribute more to open source projects 
-- 📫 How to reach me: amankumarknp.ak@gmail.com
+- 📫 How to reach me: amankumar071174@gmail.com
 
 
 ### Connect with me:
